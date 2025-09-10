@@ -35,8 +35,8 @@ devDependencies:
     specifier: ^0.4.20
     version: 0.4.20(eslint@9.27.0)
   globals:
-    specifier: ^16.1.0
-    version: 16.1.0
+    specifier: ^16.4.0
+    version: 16.4.0
   typescript:
     specifier: ~5.8.3
     version: 5.8.3
@@ -1357,8 +1357,8 @@ packages:
     engines: {node: '>=18'}
     dev: true
 
-  /globals@16.1.0:
-    resolution: {integrity: sha512-aibexHNbb/jiUSObBgpHLj+sIuUmJnYcgXBlrfsiDZ9rt4aF2TFRbyLgZ2iFQuVZ1K5Mx3FVkbKRSgKrbK3K2g==}
+  /globals@16.4.0:
+    resolution: {integrity: sha512-ob/2LcVVaVGCYN+r14cnwnoDPUufjiYgSqRhiFD0Q1iI4Odora5RE8Iv1D24hAz5oMophRGkGz+yuvQmmUMnMw==}
     engines: {node: '>=18'}
     dev: true
 
